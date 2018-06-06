@@ -21,4 +21,4 @@ Hi! I'm Eric, and I'm currently DOING `NOTHING` IN THE SUMMER!
 ## Contact
 
 REACH OUT!!!!!!!!!!
-(https://docs.google.com/forms/d/e/1FAIpQLSepvIMdvuwMXqr6XmOlG0QqPh0x7R6JLb8F1I3xSeI7AmyRLA/viewform?usp=sf_link)
+[CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSepvIMdvuwMXqr6XmOlG0QqPh0x7R6JLb8F1I3xSeI7AmyRLA/viewform?usp=sf_link)
