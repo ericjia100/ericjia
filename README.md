@@ -11,7 +11,7 @@ Hi! I'm Eric, and I'm currently studying Computer Science at University of Calif
 3. Discrete Mathematics and Probability Theory (CS 70)
 4. Linear Algebra and Differential Equations (MATH 54) 
 5. Foundations of Data Science (DATA 8)
-6. Designing Information Devices and Systems II (EE 16B)
+6. Designing Information Devices and Systems II ([EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp18/))
 
 ## Projects
 
@@ -32,8 +32,8 @@ Hi! I'm Eric, and I'm currently studying Computer Science at University of Calif
 
 ### Side Projects
 
-1. Calculator App for Android
-2. Restaurants Nearby App for Android
+1. Calculator App for Android (In-Progress)
+2. Restaurants Nearby App for Android (In-Progress)
 
 ## Contact
 
