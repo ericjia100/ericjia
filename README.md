@@ -23,7 +23,7 @@ Hi! I'm Eric, and I'm currently studying Computer Science at University of Calif
 3. [Ants vs. SomeBees](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/ants/)
 4. [Scheme Interpreter](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/scheme/)
 
-**CS61B**
+**CS 61B**
 1. [NBody Simulation](https://sp18.datastructur.es/materials/proj/proj0/proj0)
 2. [Deque Data Structures](https://sp18.datastructur.es/materials/proj/proj1a/proj1a)
 3. [Unit Testing](https://sp18.datastructur.es/materials/proj/proj1b/proj1b)
@@ -37,8 +37,7 @@ Hi! I'm Eric, and I'm currently studying Computer Science at University of Calif
 
 ## Contact
 
-You can reach me through my email: [ericjia100@berkeley.edu](ericjia100@berkeley.edu).
-Or, you can contact me through this [completely anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSepvIMdvuwMXqr6XmOlG0QqPh0x7R6JLb8F1I3xSeI7AmyRLA/viewform?usp=sf_link)!
+If you have any questions or concerns, you can reach me through my email: ericjia100@berkeley.edu.
+If you have any feedback, you can contact me through this [completely anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSepvIMdvuwMXqr6XmOlG0QqPh0x7R6JLb8F1I3xSeI7AmyRLA/viewform?usp=sf_link)!
 
-## Resume 
 
