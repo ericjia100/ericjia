@@ -15,25 +15,17 @@ Hi! I'm Eric, and I'm currently studying Computer Science at University of Calif
 
 ## Projects
 
-### Class Projects
-
-**CS 61A**
 1. [Hog Dice Game](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/hog/)
 2. [Yelp Maps](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/maps/) 
 3. [Ants vs. SomeBees](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/ants/)
 4. [Scheme Interpreter](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/scheme/)
-
-**CS 61B**
-1. [NBody Simulation](https://sp18.datastructur.es/materials/proj/proj0/proj0)
-2. [Deque Data Structures](https://sp18.datastructur.es/materials/proj/proj1a/proj1a)
-3. [Unit Testing](https://sp18.datastructur.es/materials/proj/proj1b/proj1b)
-4. [Game Generation](https://sp18.datastructur.es/materials/proj/proj2/proj2)
-5. [Bear Maps](https://sp18.datastructur.es/materials/proj/proj3/proj3)
-
-### Side Projects
-
-1. Calculator App for Android (In-Progress)
-2. Restaurants Nearby App for Android (In-Progress)
+5. [NBody Simulation](https://sp18.datastructur.es/materials/proj/proj0/proj0)
+6. [Deque Data Structures](https://sp18.datastructur.es/materials/proj/proj1a/proj1a)
+7. [Unit Testing](https://sp18.datastructur.es/materials/proj/proj1b/proj1b)
+8. [Game Generation](https://sp18.datastructur.es/materials/proj/proj2/proj2)
+9. [Bear Maps](https://sp18.datastructur.es/materials/proj/proj3/proj3)
+10. Calculator App for Android (In-Progress)
+11. Restaurants Nearby App for Android (In-Progress)
 
 ## Contact
 
