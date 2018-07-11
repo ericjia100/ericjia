@@ -24,8 +24,8 @@ Hi! I'm Eric, and I'm currently studying Computer Science at University of Calif
 7. [Unit Testing](https://sp18.datastructur.es/materials/proj/proj1b/proj1b)
 8. [Game Generation](https://sp18.datastructur.es/materials/proj/proj2/proj2)
 9. [Bear Maps](https://sp18.datastructur.es/materials/proj/proj3/proj3)
-10. Calculator App for Android (In-Progress)
-11. Restaurants Nearby App for Android (In-Progress)
+10. My Hero Academia Game (In-Progress)
+11. Remember Food (In-Progress)
 
 ## Contact
 
