@@ -27,6 +27,10 @@ Hi! I'm Eric, and I'm currently studying Computer Science at University of Calif
 10. My Hero Academia Game (In-Progress)
 11. Remember Food (In-Progress)
 
+## Resume
+
+Download a copy of my resume [here](https://google.com).
+
 ## Contact
 
 If you have any questions or concerns, you can reach me through my email: ericjia100@berkeley.edu.
