@@ -6,7 +6,7 @@ Hi! I'm Eric, and I'm currently studying Computer Science at University of Calif
 
 ## Classes 
 
-If you would like to learn more about the class, just click the link and it will take you to the class website!
+These are the classes I have taken so far in my time at Cal. If you would like to learn more about each class, just click the link and it will take you to the class website!
 
 1. Structure and Interpretation of Computer Programs ([CS 61A](http://inst.eecs.berkeley.edu/~cs61a/fa17/)) 
 2. Data Structures and Algorithms ([CS 61B](https://sp18.datastructur.es/))
@@ -19,7 +19,7 @@ If you would like to learn more about the class, just click the link and it will
 
 ### Class Projects
 
-These are all projects I completed in my classes, CS 61A and CS 61B. Unfortunately, I am not allowed to publicly shared the code, but you can check out their specifications by clicking on the links!
+These are all projects I completed in my classes, CS 61A and CS 61B. Unfortunately, I am not allowed to publicly share the code, but you can check out their specifications by clicking on the links!
 
 1. [Hog Dice Game](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/hog/)
 2. [Yelp Maps](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/maps/) 
