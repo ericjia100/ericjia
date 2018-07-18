@@ -29,9 +29,9 @@ These are all projects I completed in my classes, CS 61A and CS 61B. Check out t
 6. [Deque Data Structures](https://sp18.datastructur.es/materials/proj/proj1a/proj1a)
 7. [Unit Testing](https://sp18.datastructur.es/materials/proj/proj1b/proj1b)
 8. [Game Generation](https://sp18.datastructur.es/materials/proj/proj2/proj2)
-9. [Bear Maps](https://sp18.datastructur.es/materials/proj/proj3/proj3)\
+9. [Bear Maps](https://sp18.datastructur.es/materials/proj/proj3/proj3)
 
-## Side Projects
+### Side Projects
 
 These are all fun, side projects that I completed in my spare time. Check them out!
 
