@@ -19,7 +19,7 @@ If you would like to learn more about the class, just click the link and it will
 
 ### Class Projects
 
-These are all projects I completed in my classes, CS 61A and CS 61B. Unfortunately, I am not allowed to publicly shared their code, but you can check out their specifications by clicking on the links!
+These are all projects I completed in my classes, CS 61A and CS 61B. Unfortunately, I am not allowed to publicly shared the code, but you can check out their specifications by clicking on the links!
 
 1. [Hog Dice Game](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/hog/)
 2. [Yelp Maps](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/maps/) 
