@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hi! I'm Eric, and I'm currently studying Computer Science at University of California, Berkeley.
+Hi! I'm Eric, and I'm currently studying Computer Science at University of California, Berkeley. I am going into my second year of classes and I could not wait to learn more. 
 
 ## Classes 
 
