@@ -19,7 +19,7 @@ These are the classes I have taken so far in my time at UC Berkeley. If you woul
 
 ### Class Projects
 
-These are all projects I completed in my technical classes. Unfortunately, I am not allowed to publicly share my code, but you can check out their specifications by clicking on the links!
+These are all projects I completed in my programming classes. Unfortunately, I am not allowed to publicly share my code, but you can check out their specifications by clicking on the links!
 
 **CS 61A**
 1. [Hog Dice Game](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/hog/)
