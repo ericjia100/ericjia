@@ -11,7 +11,7 @@ These are the classes I have taken so far in my time at UC Berkeley. If you woul
 1. Structure and Interpretation of Computer Programs ([CS 61A](http://inst.eecs.berkeley.edu/~cs61a/fa17/)) 
 2. Data Structures and Algorithms ([CS 61B](https://sp18.datastructur.es/))
 3. Discrete Mathematics and Probability Theory (CS 70)
-4. Linear Algebra and Differential Equations (MATH 54) 
+4. Linear Algebra and Differential Equations ([MATH 54](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54)) 
 5. Foundations of Data Science (DATA 8)
 6. Designing Information Devices and Systems II ([EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp18/))
 
@@ -19,7 +19,7 @@ These are the classes I have taken so far in my time at UC Berkeley. If you woul
 
 ### Class Projects
 
-These are all projects I completed in my classes, CS 61A and CS 61B. Unfortunately, I am not allowed to publicly share my code, but you can check out their specifications by clicking on the links!
+These are all projects I completed in my technical classes. Unfortunately, I am not allowed to publicly share my code, but you can check out their specifications by clicking on the links!
 
 **CS 61A**
 1. [Hog Dice Game](http://inst.eecs.berkeley.edu/~cs61a/fa17/proj/hog/)
@@ -36,7 +36,7 @@ These are all projects I completed in my classes, CS 61A and CS 61B. Unfortunate
 
 ### Side Projects
 
-These are all fun, side projects that I completed in my spare time. Check them out!
+These are all fun, interesting side projects that I completed in my spare time. Check them out!
 
 1. Fun Maze Game (In-Progress)
 2. Remember Food (In-Progress)
