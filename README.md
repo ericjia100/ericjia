@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hi! I'm Eric, and I'm from Diamond Bar, a small city in Southern California. I am currently going into my second year of classes at University of California, Berkeley, where I am studying Computer Science. Here you will find all the information about my journey into the software engineer world!
+Hi! I'm Eric, and I'm from Diamond Bar, a small city in Southern California. I am currently going into my second year of classes at University of California, Berkeley, where I am studying Computer Science. Here you will find all the information about my journey into the software engineering world!
 
 ## Classes 
 
@@ -42,13 +42,9 @@ These are all fun, side projects that I completed in my spare time. Check them o
 2. Remember Food (In-Progress)
 3. Chrome Extension (In-Progress)
 
-## Resume
-
-Download a copy of my resume [here](https://google.com). Will edit later!
-
 ## Contact
 
-If you have any questions or concerns, you can reach me through my email: ericjia100@berkeley.edu.
-If you have any feedback, you can contact me through this [completely anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSepvIMdvuwMXqr6XmOlG0QqPh0x7R6JLb8F1I3xSeI7AmyRLA/viewform?usp=sf_link)!
+Check out my LinkedIn profile [here](https://www.linkedin.com/in/eric-jia-ba0138161/). It includes all my professional information and ways to contact me!
+
 
 
