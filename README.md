@@ -38,7 +38,7 @@ These are all projects I completed in my programming classes. Unfortunately, I a
 
 These are all fun, interesting side projects that I completed in my spare time. Check them out!
 
-1. Fun Maze Game (In-Progress)
+1. Fun Maze Game (Completed)
 2. Remember Food (In-Progress)
 3. Chrome Extension (In-Progress)
 
