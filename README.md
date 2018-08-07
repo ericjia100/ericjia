@@ -38,7 +38,7 @@ These are all projects I completed in my programming classes. Unfortunately, I a
 
 These are all fun, interesting side projects that I completed in my spare time. Check them out!
 
-1. Fun Maze Game (Completed - This is a private project that I worked on, so unfortunately I am unable to show the code on GitHub. However, please ask me about it!)
+1. Fun Maze Game (This is a private project that I worked on, so unfortunately I am unable to show the code on GitHub. However, please ask me about it!)
 2. Remember Food (In-Progress)
 3. Chrome Extension (In-Progress)
 
