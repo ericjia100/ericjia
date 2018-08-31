@@ -15,6 +15,18 @@ These are the classes I have taken so far in my time at UC Berkeley. If you woul
 5. Foundations of Data Science ([DATA 8](http://data8.org/fa18/))
 6. Designing Information Devices and Systems II ([EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp18/))
 
+## Experience
+
+### Academic Intern
+
+I'm currently part of the course staff in official UC Berkeley computer science classes, CS61A and CS61B. After learning so much in both classes, I wanted to help assist labs, monitor office hours, and mentor students as an academic intern. Plus, I get to earn upper division units!
+
+## Organizations
+
+### Computer Science Undergraduate Association
+
+I joined the Computer Science Undergraduate Association to meet and work with fellow CS majors at UC Berkeley. With over 1000 members in this organization, I have expanded my knowledge of the CS world and have gotten to know such a huge CS community!
+
 ## Projects
 
 ### Class Projects
