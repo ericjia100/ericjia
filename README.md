@@ -40,7 +40,7 @@ These are all fun, interesting side projects that I completed in my spare time. 
 
 1. World Generation Maze Game 
 2. Personal Chrome Extension
-3. Food Android App
+3. Food Android App (In-Progress)
 
 ## Contact
 
