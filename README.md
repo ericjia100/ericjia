@@ -16,19 +16,11 @@ These are the classes I have taken so far in my time at UC Berkeley. If you woul
 6. Designing Information Devices and Systems II ([EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp18/))
 
 ## Experience
-
 ### Academic Intern
 
 I'm currently part of the course staff in official UC Berkeley computer science classes, CS61A and CS61B. After learning so much in both classes, I wanted to help assist labs, monitor office hours, and mentor students as an academic intern. Plus, I get to earn upper division units!
 
-## Organizations
-
-### Computer Science Undergraduate Association
-
-I joined the Computer Science Undergraduate Association to meet and work with fellow CS majors at UC Berkeley. With over 1000 members in this organization, I have expanded my knowledge of the CS world and have gotten to know such a huge CS community!
-
 ## Projects
-
 ### Class Projects
 
 These are all projects I completed in my programming classes. Unfortunately, I am not allowed to publicly share my code, but you can check out their specifications by clicking on the links!
@@ -48,15 +40,17 @@ These are all projects I completed in my programming classes. Unfortunately, I a
 
 ### Side Projects
 
-These are all fun, interesting side projects that I completed in my spare time. Ask me about them!
+These are all fun, interesting side projects that I completed in my spare time. Check them out!
 
 1. World Generation Maze Game 
 2. Personal Chrome Extension
 3. Food Android App (In-Progress)
 
+## Organizations
+### Computer Science Undergraduate Association
+
+I joined the Computer Science Undergraduate Association to meet and work with fellow CS majors at UC Berkeley. With over 1000 members in this organization, I have expanded my knowledge of the CS world and have gotten to know such a huge CS community!
+
 ## Contact
 
 Check out my LinkedIn profile [here](https://www.linkedin.com/in/ericjia100/). It includes all my professional information and ways to contact me!
-
-
-
