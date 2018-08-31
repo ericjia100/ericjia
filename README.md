@@ -10,7 +10,7 @@ These are the classes I have taken so far in my time at UC Berkeley. If you woul
 
 1. Structure and Interpretation of Computer Programs ([CS 61A](http://inst.eecs.berkeley.edu/~cs61a/fa17/)) 
 2. Data Structures and Algorithms ([CS 61B](https://sp18.datastructur.es/))
-3. Discrete Mathematics and Probability Theory (CS 70)
+3. Discrete Mathematics and Probability Theory ([CS 70](http://www.eecs70.org/))
 4. Linear Algebra and Differential Equations ([MATH 54](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54)) 
 5. Foundations of Data Science ([DATA 8](http://data8.org/fa18/))
 6. Designing Information Devices and Systems II ([EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp18/))
