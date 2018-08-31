@@ -1,11 +1,9 @@
 # Eric Jia
 
-## Biography
-
+## Biography]
 Hi! I'm Eric, and I'm from Diamond Bar, a small city in Southern California. I am currently going into my second year of classes at University of California, Berkeley, where I am studying Computer Science. Here you will find all the information about my journey into the software engineering world!
 
 ## Classes 
-
 These are the classes I have taken so far in my time at UC Berkeley. If you would like to learn more about each class, just click the link and it will take you to the class website!
 
 1. Structure and Interpretation of Computer Programs ([CS 61A](http://inst.eecs.berkeley.edu/~cs61a/fa17/)) 
@@ -17,12 +15,10 @@ These are the classes I have taken so far in my time at UC Berkeley. If you woul
 
 ## Experience
 ### Academic Intern
-
 I'm currently part of the course staff in official UC Berkeley computer science classes, CS61A and CS61B. After learning so much in both classes, I wanted to help assist labs, monitor office hours, and mentor students as an academic intern. Plus, I get to earn upper division units!
 
 ## Projects
 ### Class Projects
-
 These are all projects I completed in my programming classes. Unfortunately, I am not allowed to publicly share my code, but you can check out their specifications by clicking on the links!
 
 **CS 61A**
@@ -39,7 +35,6 @@ These are all projects I completed in my programming classes. Unfortunately, I a
 5. [Bear Maps](https://sp18.datastructur.es/materials/proj/proj3/proj3)
 
 ### Side Projects
-
 These are all fun, interesting side projects that I completed in my spare time. Check them out!
 
 1. World Generation Maze Game 
@@ -48,9 +43,7 @@ These are all fun, interesting side projects that I completed in my spare time. 
 
 ## Organizations
 ### Computer Science Undergraduate Association
-
-I joined the Computer Science Undergraduate Association to meet and work with fellow CS majors at UC Berkeley. With over 1000 members in this organization, I have expanded my knowledge of the CS world and have gotten to know such a huge CS community!
+I joined the Computer Science Undergraduate Association to meet and work with fellow CS majors at UC Berkeley. With over 1000 members in this organization, I have expanded my knowledge of the CS world and became part of such a huge CS community!
 
 ## Contact
-
 Check out my LinkedIn profile [here](https://www.linkedin.com/in/ericjia100/). It includes all my professional information and ways to contact me!
