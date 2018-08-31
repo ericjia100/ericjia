@@ -12,7 +12,7 @@ These are the classes I have taken so far in my time at UC Berkeley. If you woul
 2. Data Structures and Algorithms ([CS 61B](https://sp18.datastructur.es/))
 3. Discrete Mathematics and Probability Theory (CS 70)
 4. Linear Algebra and Differential Equations ([MATH 54](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54)) 
-5. Foundations of Data Science (DATA 8)
+5. Foundations of Data Science ([DATA 8](http://data8.org/fa18/))
 6. Designing Information Devices and Systems II ([EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp18/))
 
 ## Projects
@@ -36,15 +36,15 @@ These are all projects I completed in my programming classes. Unfortunately, I a
 
 ### Side Projects
 
-These are all fun, interesting side projects that I completed in my spare time. Check them out!
+These are all fun, interesting side projects that I completed in my spare time. Ask me about them!
 
-1. Fun Maze Game 
-2. Remember Food (In-Progress)
-3. Pokeball Chrome Extension
+1. World Generation Maze Game 
+2. Personal Chrome Extension
+3. Food Android App
 
 ## Contact
 
-Check out my LinkedIn profile [here](https://www.linkedin.com/in/eric-jia-ba0138161/). It includes all my professional information and ways to contact me!
+Check out my LinkedIn profile [here](https://www.linkedin.com/in/ericjia100/). It includes all my professional information and ways to contact me!
 
 
 
