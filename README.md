@@ -42,8 +42,8 @@ These are all fun, interesting side projects that I completed in my spare time. 
 3. Food Android App (In-Progress)
 
 ## Organizations
-### Computer Science Undergraduate Association
-I joined the Computer Science Undergraduate Association to meet and work with fellow CS majors at UC Berkeley. With over 1000 members in this organization, I have expanded my knowledge of the CS world and became part of such a huge CS community!
+### Codeology
+I joined Codeology to meet and work with fellow CS majors at UC Berkeley. With about 50 members in this organization, I became part of such a welcoming CS community!
 
 ## Contact
 Check out my LinkedIn profile [here](https://www.linkedin.com/in/ericjia100/). It includes all my professional information and ways to contact me!
