@@ -40,7 +40,7 @@ These are all fun, interesting side projects that I completed in my spare time. 
 1. World Generation Maze Game 
 2. Personal Chrome Extension
 
-## Organizations
+## Activities
 ### Codeology
 I joined Codeology to meet and work with fellow CS majors at UC Berkeley. With about 50 members in this organization, I became part of such a welcoming CS community!
 
