@@ -35,7 +35,7 @@ These are all projects I completed in my programming classes. Unfortunately, I a
 5. [Bear Maps](https://sp18.datastructur.es/materials/proj/proj3/proj3)
 
 ### Side Projects
-These are all fun, interesting side projects that I completed in my spare time. Check some of them out [here] (https://github.com/ericjia100/Projects)!
+These are all fun, interesting side projects that I completed in my spare time. Check some of them out [here](https://github.com/ericjia100/Projects)!
 
 1. World Generation Maze Game 
 2. Personal Chrome Extension
