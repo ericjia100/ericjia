@@ -3,6 +3,10 @@
 ## Biography
 Hi! I'm Eric, and I'm from Diamond Bar, a small city in Southern California. I am currently going into my second year of classes at University of California, Berkeley, where I am studying Computer Science. Here you will find all the information about my journey into the software engineering world!
 
+## Experience
+### Academic Intern
+I'm currently part of the course staff in official UC Berkeley computer science classes, CS61A and CS61B. After learning so much in both classes, I wanted to help assist labs, monitor office hours, and mentor students as an academic intern. Plus, I get to earn upper division units!
+
 ## Classes 
 These are the classes I have taken so far or currently in my time at UC Berkeley. If you would like to learn more about each class, just click the link and it will take you to the class website!
 
@@ -12,10 +16,6 @@ These are the classes I have taken so far or currently in my time at UC Berkeley
 4. Designing Information Devices and Systems II ([EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp18/))
 5. Linear Algebra and Differential Equations ([MATH 54](https://math.berkeley.edu/courses/choosing/lowerdivcourses/math54)) 
 6. Foundations of Data Science ([DATA 8](http://data8.org/fa18/))
-
-## Experience
-### Academic Intern
-I'm currently part of the course staff in official UC Berkeley computer science classes, CS61A and CS61B. After learning so much in both classes, I wanted to help assist labs, monitor office hours, and mentor students as an academic intern. Plus, I get to earn upper division units!
 
 ## Projects
 ### Class Projects
